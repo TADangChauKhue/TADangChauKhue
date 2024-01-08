@@ -2,7 +2,7 @@
 
 ## IT Analyst
 
-Welcome to my GitHub profile! I'm a passionate data analyst with expertise in Python, SQL, Power BI, Power Automate, and Power Apps. I love turning raw data into meaningful insights and visualizations.
+Welcome to my GitHub profile! I'm a passionate functional analyst with expertise in Python, SQL, Power BI, Power Automate, and Power Apps. 
 
 ### 🔧 Skills
 
