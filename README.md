@@ -30,8 +30,8 @@ Welcome to my GitHub profile! I'm a passionate functional analyst with expertise
 
 ### 📫 Let's Connect
 
-- LinkedIn: [Your LinkedIn Profile](link)
-- Twitter: [@YourTwitterHandle](link)
+- LinkedIn: https://www.linkedin.com/in/dangchaukhueta/
+
 
 Feel free to explore my repositories and connect with me. I'm always open to collaboration and discussions about data analytics.
 
