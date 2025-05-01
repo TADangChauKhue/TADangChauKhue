@@ -2,7 +2,7 @@
 
 ## Project manager
 
-Welcome to my GitHub profile! I'm a passionate functional analyst with expertise in Python, SQL, Power BI, Power Automate, and Power Apps. 
+Welcome to my GitHub profile! I'm a passionate functional analyst with expertise in Python, SQL, Power BI, Power Platform.
 
 ### 🔧 Skills
 
