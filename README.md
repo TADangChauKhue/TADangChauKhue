@@ -17,30 +17,23 @@ Welcome to my GitHub profile! I'm a passionate functional analyst with expertise
 #### 🧠 Data & Machine Learning
 
 1. Python_RFM_Analysis
-   
    Analyze segmentation customer bases on RFM model to help Marketing team to deploy suitable marketing program for each customer group.
-   
    https://github.com/TADangChauKhue/Python_RFM_Analysis
   
-
 2. SQL_PBI_Adventure-Works-Analysis
-   
    Utilize BigQuery SQL to explore, data wrangling techniques to analyze datasets, connect data to Power Bi, build model and dashboard.
-   
    https://github.com/TADangChauKhue/SQL_PBI_Adventure-Works-Analysis
    
-4. Machine-Learning_Model-for-predicting-churned-users
-   
+3. Machine-Learning_Model-for-predicting-churned-users
    Utilize Python, data wrangling techniques, and machine learning to analyze customer behavior and predict churned users.
-   
    https://github.com/TADangChauKhue/Machine-Learning_Model-for-predicting-churned-users
    
 #### ⚙️ Automation
 1. Mass Email with Attachments via VBA
-   
    Automated the sending of personalized emails with Excel-based attachments to multiple recipients using VBA.
+   https://github.com/TADangChauKhue/Mass_Email_with_Attachments_VBA
    
-2. Periodic notification in TEAM channel with reporting view AZUR devops
+3. Periodic notification in TEAM channel with reporting view AZUR devops
    Built a workflow to send automated notifications to a Microsoft Teams channel, helping team members stay on track by identifying overdue tasks from Azure DevOps.
    
 4. Automation of Archiving of Sent Emails on SharePoint
@@ -58,8 +51,7 @@ Welcome to my GitHub profile! I'm a passionate functional analyst with expertise
 ### 📫 Let's Connect
 
 - LinkedIn: https://www.linkedin.com/in/dangchaukhueta/
-
-
+  
 Feel free to explore my repositories and connect with me. I'm always open to collaboration and discussions about data analytics.
 
 
