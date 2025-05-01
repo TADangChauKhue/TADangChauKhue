@@ -6,13 +6,15 @@ Welcome to my GitHub profile! I'm a passionate functional analyst with expertise
 
 ### 🔧 Skills
 
-- **Python:** Numpy, Pandas, Matplotlib, Seaborn, Machine Learning
-- **SQL:** MySQL, BigQuery SQL
-- **Power BI** 
-- **Power Automate** 
-- **Power Apps** 
+- **Languages:** Python (Pandas, Numpy, Matplotlib, Seaborn), SQL (MySQL, BigQuery)
+- **Data & BI Tools:** Power BI, Power Plateform ( Power Automate, Power Apps, Copilot studio)
+- **Machine Learning:** Scikit-learn, RFM Segmentation
+- **Automation:** VBA, Power Automate, Make
+- **Project Tools:** Azure DevOps, Agile/Scrum methodologies
 
 ### 🚀 Projects
+
+#### 🧠 Data & Machine Learning
 
 1. Python_RFM_Analysis
    
@@ -32,6 +34,21 @@ Welcome to my GitHub profile! I'm a passionate functional analyst with expertise
    Utilize Python, data wrangling techniques, and machine learning to analyze customer behavior and predict churned users.
    
    https://github.com/TADangChauKhue/Machine-Learning_Model-for-predicting-churned-users
+   
+#### ⚙️ Automation
+1. Mass Email with Attachments via VBA
+   
+   Automate email sending with Excel-based file attachments to multiple users.
+   
+    
+3. Automation of employ research
+   Streamline employee data research and reporting processes.
+   
+## Web development
+
+1. AzerType Typing Practice Tool
+   A simple web app to help users practice and improve their typing speed and accuracy.
+   
 
 ### 📫 Let's Connect
 
