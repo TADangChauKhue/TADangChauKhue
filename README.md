@@ -23,25 +23,33 @@ Welcome to my GitHub profile! I'm a passionate functional analyst with expertise
    https://github.com/TADangChauKhue/Python_RFM_Analysis
   
 3. SQL_PBI_Adventure-Works-Analysis
+   
    Utilize BigQuery SQL to explore, data wrangling techniques to analyze datasets, connect data to Power Bi, build model and dashboard.
+   
    https://github.com/TADangChauKhue/SQL_PBI_Adventure-Works-Analysis
    
 4. Machine-Learning_Model-for-predicting-churned-users
+   
    Utilize Python, data wrangling techniques, and machine learning to analyze customer behavior and predict churned users.
+   
    https://github.com/TADangChauKhue/Machine-Learning_Model-for-predicting-churned-users
    
 #### ⚙️ Automation
 1. Mass Email with Attachments via VBA
+   
    Automated the sending of personalized emails with Excel-based attachments to multiple recipients using VBA.
+   
    https://github.com/TADangChauKhue/Mass_Email_with_Attachments_VBA
    
-3. Periodic notification in TEAM channel with reporting view AZUR devops
+2. Periodic notification in TEAM channel with reporting view AZUR devops
+   
    Built a workflow to send automated notifications to a Microsoft Teams channel, helping team members stay on track by identifying overdue tasks from Azure DevOps.
    
-4. Automation of Archiving of Sent Emails on SharePoint
+3. Automation of Archiving of Sent Emails on SharePoint
+   
     Implemented a solution to automatically archive sent emails into a SharePoint team folder, ensuring traceability and centralized document management.
    
-6. Automation of employ research
+4. Automation of employ research
    Streamline employee data research and reporting processes.
    
 #### 💻 Web Development
