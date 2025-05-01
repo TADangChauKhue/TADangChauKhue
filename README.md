@@ -38,10 +38,15 @@ Welcome to my GitHub profile! I'm a passionate functional analyst with expertise
 #### ⚙️ Automation
 1. Mass Email with Attachments via VBA
    
-   Automate email sending with Excel-based file attachments to multiple users.
+   Automated the sending of personalized emails with Excel-based attachments to multiple recipients using VBA.
    
-    
-3. Automation of employ research
+2. Periodic notification in TEAM channel with reporting view AZUR devops
+   Built a workflow to send automated notifications to a Microsoft Teams channel, helping team members stay on track by identifying overdue tasks from Azure DevOps.
+   
+4. Automation of Archiving of Sent Emails on SharePoint
+    Implemented a solution to automatically archive sent emails into a SharePoint team folder, ensuring traceability and centralized document management.
+   
+6. Automation of employ research
    Streamline employee data research and reporting processes.
    
 #### 💻 Web Development
