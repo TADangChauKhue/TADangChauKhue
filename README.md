@@ -44,7 +44,7 @@ Welcome to my GitHub profile! I'm a passionate functional analyst with expertise
 3. Automation of employ research
    Streamline employee data research and reporting processes.
    
-## Web development
+#### 💻 Web Development
 
 1. AzerType Typing Practice Tool
    A simple web app to help users practice and improve their typing speed and accuracy.
