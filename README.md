@@ -17,14 +17,16 @@ Welcome to my GitHub profile! I'm a passionate functional analyst with expertise
 #### 🧠 Data & Machine Learning
 
 1. Python_RFM_Analysis
+   
    Analyze segmentation customer bases on RFM model to help Marketing team to deploy suitable marketing program for each customer group.
+   
    https://github.com/TADangChauKhue/Python_RFM_Analysis
   
-2. SQL_PBI_Adventure-Works-Analysis
+3. SQL_PBI_Adventure-Works-Analysis
    Utilize BigQuery SQL to explore, data wrangling techniques to analyze datasets, connect data to Power Bi, build model and dashboard.
    https://github.com/TADangChauKhue/SQL_PBI_Adventure-Works-Analysis
    
-3. Machine-Learning_Model-for-predicting-churned-users
+4. Machine-Learning_Model-for-predicting-churned-users
    Utilize Python, data wrangling techniques, and machine learning to analyze customer behavior and predict churned users.
    https://github.com/TADangChauKhue/Machine-Learning_Model-for-predicting-churned-users
    
