@@ -57,7 +57,7 @@ Welcome to my GitHub profile! I'm a passionate functional analyst with expertise
    
    Automated job listing analysis and tracking with OpenAI and Airtable using Make, helping job seekers save time by summarizing and organizing job opportunities automatically using match assessment scores.
 
-   https://github.com/TADangChauKhue/Job_Search_Automation_Make/blob/main/README.md
+   https://github.com/TADangChauKhue/Job_Search_Automation_Make
    
 #### 💻 Web Development
 
