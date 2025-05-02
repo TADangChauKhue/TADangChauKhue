@@ -41,9 +41,9 @@ Welcome to my GitHub profile! I'm a passionate functional analyst with expertise
    
    https://github.com/TADangChauKhue/Mass_Email_with_Attachments_VBA
    
-2. Periodic notification in TEAM channel with reporting view AZUR devops
+2. Overdue task notification on TEAM
    
-   Built a workflow to send automated notifications to a Microsoft Teams channel, helping team members stay on track by identifying overdue tasks from Azure DevOps.
+   Built a workflow to send automated notifications to a Microsoft Teams channel, helping team members stay on track by identifying overdue tasks from project management tool Azure DevOps.
    
 3. Automation of Archiving of Sent Emails on SharePoint
    
