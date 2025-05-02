@@ -47,9 +47,11 @@ Welcome to my GitHub profile! I'm a passionate functional analyst with expertise
    
 3. Automation of Archiving of Sent Emails on SharePoint
    
-    Implemented a solution to automatically archive sent emails into a SharePoint team folder, ensuring traceability and centralized document management.
+   Implemented a solution to automatically archive sent emails into a SharePoint team folder, ensuring traceability and centralized document management.
+
+   https://github.com/TADangChauKhue/Automation_archive_mails_into_Sharepoint
    
-4. Automation of employ research
+5. Automation of employ research
    
    Automated job listing analysis and tracking with OpenAI and Airtable using Make, helping job seekers save time by summarizing and organizing job opportunities automatically using match assessment scores.
 
