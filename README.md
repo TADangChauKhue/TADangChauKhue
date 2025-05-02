@@ -50,7 +50,10 @@ Welcome to my GitHub profile! I'm a passionate functional analyst with expertise
     Implemented a solution to automatically archive sent emails into a SharePoint team folder, ensuring traceability and centralized document management.
    
 4. Automation of employ research
-   Streamline employee data research and reporting processes.
+   
+   Automated job listing analysis and tracking with OpenAI and Airtable using Make, helping job seekers save time by summarizing and organizing job opportunities automatically using match assessment scores.
+
+   https://github.com/TADangChauKhue/Job_Search_Automation_Make/blob/main/README.md
    
 #### 💻 Web Development
 
