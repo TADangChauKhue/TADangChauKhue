@@ -67,6 +67,13 @@ Welcome to my GitHub profile! I'm a passionate functional analyst with expertise
 
    https://github.com/TADangChauKhue/AzerType_web-app/tree/main
    
+3. E-Learning site (in progress)
+   
+   E -Learning site with backend Node JS and frontend React
+   
+   https://github.com/TADangChauKhue/jwt-node-react2
+   https://github.com/TADangChauKhue/jwt-frontend-react
+   
 
 ### 📫 Let's Connect
 
