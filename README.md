@@ -58,7 +58,26 @@ Welcome to my GitHub profile! I'm a passionate functional analyst with expertise
    Automated job listing analysis and tracking with OpenAI and Airtable using Make, helping job seekers save time by summarizing and organizing job opportunities automatically using match assessment scores.
 
    https://github.com/TADangChauKhue/Job_Search_Automation_Make
-   
+
+#### ⚡ Power Platform
+
+1. Purchase Request Management App (Power Apps & Power Automate)
+
+   Developed a Power Apps application to manage and validate purchase requests.
+
+   The solution integrates an automated approval workflow using Power Automate, ensuring secure validation processes and full traceability of approvals.
+
+   https://github.com/TADangChauKhue/Purchase_Request_App
+
+
+2. Employee Time Tracking & Leave Management App (Power Apps)
+
+   Designed a Power Apps application for tracking employee attendance, including arrival and departure times.
+
+   The application also integrates leave request management with an automated approval workflow to streamline HR processes.
+
+   https://github.com/TADangChauKhue/Employee_Time_Tracking_App
+     
 #### 💻 Web Development
 
 1. AzerType Typing Practice Tool
